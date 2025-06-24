@@ -1,0 +1,12 @@
+title: Your Name's GitHub Page
+description: A brief description of your GitHub user page, showcasing your work and interests.
+theme: minima
+url: https://yourusername.github.io
+author:
+  name: Your Name
+  email: your.email@example.com
+social:
+  github: yourusername
+  twitter: yourtwitterhandle
+  linkedin: yourlinkedinprofile
+  email: your.email@example.com
