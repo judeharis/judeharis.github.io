@@ -1,6 +1,6 @@
 # Publications
 
-## Title of Publication 1
+<!-- ## Title of Publication 1
 - **Authors**: Your Name, Co-author Name
 - **Published In**: Journal/Conference Name
 - **Year**: 2023
@@ -19,4 +19,4 @@
 - **Published In**: Journal/Conference Name
 - **Year**: 2021
 - **Link**: [View Publication](https://link-to-publication.com)
-- **Description**: A brief description of the publication, highlighting its significance and findings.
+- **Description**: A brief description of the publication, highlighting its significance and findings. -->

@@ -1,12 +1,12 @@
-title: Your Name's GitHub Page
-description: A brief description of your GitHub user page, showcasing your work and interests.
+title: Jude Haris
+description: What I do, my projects, and my thoughts.
 theme: minima
-url: https://yourusername.github.io
+url: https://judeharis.github.io
 author:
-  name: Your Name
-  email: your.email@example.com
+  name: Jude Haris
+  email: tbd
 social:
-  github: yourusername
-  twitter: yourtwitterhandle
-  linkedin: yourlinkedinprofile
-  email: your.email@example.com
+  github: judeharis
+  # twitter: yourtwitterhandle
+  linkedin: https://www.linkedin.com/in/jude-haris/
+  email: tbd
