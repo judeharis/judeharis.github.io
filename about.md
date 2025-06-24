@@ -1,24 +1,20 @@
-# About Me
+---
+layout: page
+title: About
+permalink: /about/
+---
 
-Welcome to my GitHub IO user page! 
+Updating this now. s
 
-<!-- I am a passionate developer with a keen interest in open-source projects and software development. My journey in technology began at a young age, and I have since honed my skills in various programming languages and frameworks. -->
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-## Background
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-<!-- I hold a degree in Computer Science and have experience working in both startups and established companies. My expertise lies in web development, where I enjoy creating user-friendly applications that solve real-world problems. -->
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
-## Interests
 
-<!-- In addition to coding, I am interested in:
-
-- Artificial Intelligence
-- Machine Learning
-- Cloud Computing
-- Contributing to Open Source -->
-
-## Personal Details
-
-<!-- When I'm not coding, you can find me exploring the outdoors, reading tech blogs, or participating in hackathons. I believe in continuous learning and strive to keep up with the latest trends in technology.
-
-Feel free to connect with me through my projects and publications listed on this page! -->
+[jekyll-organization]: https://github.com/jekyll
